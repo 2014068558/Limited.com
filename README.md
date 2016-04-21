@@ -4,4 +4,4 @@ This website will limit the usage of a computer from accessing websites that are
 
 Developers:
 Jacobo, Reg Jaycobb (2014070083)
-Rada, Earl Nitram (20140685588)
+Rada, Earl Martin (20140685588)
