@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+
+html, body {
+background-image: url("tokyo.jpeg");
+background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    font-family: Century Gothic; 
+    font-size: 16px; 
+    color: #fdfcff;}
+.clear {clear: both;}
+
+#name h1 {
+font-size: 5.5em;
+font-weight: 700;
+font-family: Thug;
+text-align: center;
+position: absolute;
+    top:220px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#name h2 {
+font-size: 1em;
+position: center;
+font-family: Century Gothic;
+text-align: center;
+position: absolute;
+    top: 300px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#name header1 {
+font-size: 5em;
+font-weight: 700;
+font-family: Thug;
+text-align: center;
+position: absolute;
+    top:30px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.banner{
+	background-image: url('LoginBackground.png');
+    background-size: 1200px 750px;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: 50% -20%;
+	margin-right: 30px;
+	
+}
+
+#mainAreaLogin {
+position: absolute;
+    top: 200px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
